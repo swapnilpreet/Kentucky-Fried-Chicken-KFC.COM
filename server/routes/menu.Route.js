@@ -45,7 +45,7 @@ router.get('/category/:key',async(req,res)=>{
 
 })
 // get products by id
-router.get('/get-food-by-id/:id',authMiddleware,async(req,res)=>{
+router.get('/get-food-by-id/:id',async(req,res)=>{
      try {
           const singlefood = await MenuModel.findById(req.params.id);
           res.send({
@@ -87,7 +87,7 @@ const storage = multer.diskStorage({
      }
  });
 
- router.post('upload-food-image',authMiddleware,multer({
+ router.post('upload-food-image',multer({
      storage:storage
  }).single('file'),async(req,res)=>{
      try {
