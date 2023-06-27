@@ -1,0 +1,35 @@
+{
+    "sause":[
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-BuffaloRanch?q=75&w=1280",
+            "name":"BUFFALO RANCH",
+            "calories":120
+
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-ketchup2?q=75&w=1280",
+            "name":"KETCHUP",
+            "calories":20
+
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-HoneyBBQ?q=75&w=1280",
+            "name":"HONEY BBQ",
+            "calories":40
+
+        },
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-KFCSauce?q=75&w=1280",
+            "name":"KFC SAUCE",
+            "calories":40
+
+        }
+        ,
+        {
+            "image":"https://digitaleat.kfc.com/menus/image/bare/kfc-honeySauce2?q=75&w=1280",
+            "name":"HONEY SAUCE",
+            "calories":60
+
+        }
+    ]
+}

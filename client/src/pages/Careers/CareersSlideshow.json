@@ -1,0 +1,29 @@
+{
+    "products":[
+        {
+            "image":"https://images.ctfassets.net/9tka4b3550oc/2gCjL7qPDqysOrgf3H9vAA/71487ce4241a79c730cafe3e4b312f84/cook.jpg?w=470",
+             "role":"TEAM MEMBER",
+            "position":"COOK"
+        },
+        {
+            "image":"https://images.ctfassets.net/9tka4b3550oc/3kEbJ6F1XBJUd1sa4dzhH2/2fce139fc9a6b19a4c4651062d811b16/kfc_customer_sevice.jpg?w=470",
+             "role":"TEAM MEMBER",
+            "position":"CUSTOMER SERVICE"
+        },
+        {
+            "image":"https://images.ctfassets.net/9tka4b3550oc/4xLm9Q4797pqf7HpmC4saD/5802b9d05723df5b29e017c1510d5a97/shift-supervisor.jpg?w=470",
+             "role":"SUPERVISOR",
+            "position":"SHIFT SUPERVISOR"
+        },
+        {
+            "image":"https://images.ctfassets.net/9tka4b3550oc/4HnWhgDCm3rJh0vBgiTPI0/49e7a06a569b3bee25d3af2382795885/assistant-manager.jpg?w=470",
+             "role":"MANAGER",
+            "position":"ASSISTANT MANAGER"
+        },
+        {
+            "image":"https://images.ctfassets.net/9tka4b3550oc/6FLb2pZ5kvgbt31ZU76z2R/fb1f085258e8fab90716922bc41ca371/general-manager.jpg?w=470",
+             "role":"MANAGER",
+            "position":"GENERAL MANAGER"
+        }
+    ]
+}

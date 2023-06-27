@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "name": "5 pc. Nugget Kids' Meal",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-PR00002144.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Single Chicken Roll",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-K617.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Chicken Longer Burger & 2 Strips Combo",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-PR00002348.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Regular Popcorn",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-K136.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "2 Veg Longer Burger",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-PR00002301.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-K701.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Classic Chicken Roll & Pepsi Combo",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-PR00002324.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    },
+    {
+      "name": "Classic Chicken Roll Meal for 1",
+      "calories": "300",
+      "image": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/md/D-PR00002070.jpg?ver=30.59",
+      "description": "Get your hands on 2 pieces of our freshly prepared",
+      "id": 1
+    }
+  ]
+}

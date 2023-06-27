@@ -1,0 +1,119 @@
+
+.loginSection {
+    width: 470px;
+    height: max-content;
+    margin: auto;
+    margin-top: 18px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 80px;
+  }
+  #loginSvgdiv {
+    height: 35px;
+    border-radius: 12px;
+  }
+  .loginSvgdiv2 {
+    width: 55px;
+    margin-left: 28px;
+    height: 35px;
+  }
+  #loginsvgStrip {
+    fill: #e4002b;
+    height: 25px;
+  }
+  .loginmainbox {
+    width: 90%;
+    height: max-content;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+  }
+  .loginFormdiv {
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    height: fit-content;
+  }
+  .input-data {
+    height: 40px;
+    width: 100%;
+    position: relative;
+  }
+  .input-data > input {
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 15px;
+    outline: none;
+  }
+  .input-data > input:focus {
+    transition: all 0.3s ease;
+  }
+  .input-data > input:focus ~ label,
+  .input-data > input:valid ~ label {
+    transform: translateY(-20px);
+    font-size: 12px;
+    color: crimson;
+  }
+  .input-data > label {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    color: black;
+    font-size: 15px;
+    transition: all 0.3s ease;
+  }
+  #loginerrorBox {
+    /* border: 1px solid blue; */
+    height: 30px;
+    margin-bottom: 10px;
+  }
+  .loginterms {
+    height: 50px;
+    text-align: justify;
+    padding: 5px;
+  }
+  .logintermtext {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .logintermlink {
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .loginBtndiv {
+    /* border: 1px solid black; */
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 25px;
+  }
+  .loginBtndiv > input {
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    background: #dbdbdb;
+    cursor: pointer;
+  }
+  .redirecttosignup {
+    /* border: 1px solid black; */
+    height: 35px;
+    width: 90%;
+    margin: auto;
+    margin-top: 9px;
+  }
+  .redirectsignuptext {
+    padding: 3px;
+    font-size: 15px;
+  }
+  .redirectsignuplink {
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+    color: rgb(33, 126, 67);
+  }
